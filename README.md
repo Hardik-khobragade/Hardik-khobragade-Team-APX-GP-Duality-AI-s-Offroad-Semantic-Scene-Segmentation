@@ -1,6 +1,7 @@
 # Duality AI — Offroad Semantic Segmentation
 ## DeepLabV3+ Training & Inference
 
+**Project Report:** [View Full Report](https://drive.google.com/drive/folders/1iEL4NvOoinpvk_k5R0GjRhBF_ejBTquN?usp=sharing)
 ---
 
 ## File Structure
