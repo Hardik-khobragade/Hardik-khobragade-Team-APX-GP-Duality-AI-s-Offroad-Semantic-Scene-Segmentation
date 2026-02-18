@@ -1,0 +1,18 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Training outputs and logs (YOLO/ML frameworks)
+runs/
+
+# Dataset folders (Keep these local as they are usually too large for GitHub)
+test/
+train/
+val/
+
+# Environment and OS files
+.DS_Store
+.venv/
+env/
+venv/
